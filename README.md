@@ -28,7 +28,35 @@ https://animestore.docomo.ne.jp/animestore/<br/>
 
 d아니메 of Prime Video<br/>
 dアニメ of Prime Video<br/>
-마<br/>
+https://www.amazon.co.jp/gp/video/channel/0246cb84-8f43-4c17-ac1f-2bfe85893c23/ref=atv_hm_add_c_e2CyQt_HSa38d0a_2_1?jic=20%7CEgxzdWJzY3JpcHRpb24%3D<br/>
+※ 아마존 프라임 비디오 내부에서 추가로 d아니메스토어 OTT를 구독하는 형태<br/>
+※ 아마존 프라임 내에 추가로 OTT플랫폼을 구독할 수 있는 기능이 있으나 이는 완전히 같은 콘텐츠를 제공한다는 보장이 없습니다.<br/>
+ex) 트랜스포머 헤드마스터의 경우 : d아니메스토어에서는 서비스 제공, d아니메 of Prime Video에서는 서비스 미제공<br/>
+
+아메바<br/>
+アベマ<br/>
+https://abema.tv/<br/>
+
+유튜브<br/>
+ユーチューブ<br/>
+https://www.youtube.com/<br/>
+※ 해당 채널은 시리즈별 별도 표기<br/>
+
+니코니코동화<br/>
+ニコニコ動画<br/>
+https://www.nicovideo.jp/<br/>
+※ 해당 채널은 시리즈별 별도 표기<br/>
+
+## 표기 방법<br/>
+한국어 타이틀(임의 표기)<br/>
+일문 타이틀<br/>
+서비스 제공 OTT 및 URL<br/>
+(참고사항 ※있을 경우)<br/>
+
+# 클래식<br/>
+초대<br/>
+戦え！超ロボット生命体トランスフォーマー<br/>
+d아니메스토어 / d아니메 of Prime Video / 아베마<br/>
 
 더 무비<br/>
 トランスフォーマー ザ・ムービー<br/>
