@@ -32,7 +32,7 @@ https://www.amazon.co.jp/gp/video/channel/0246cb84-8f43-4c17-ac1f-2bfe85893c23/r
 ※ 아마존 프라임 내에 추가로 OTT플랫폼을 구독할 수 있는 기능이 있으나 이는 완전히 같은 콘텐츠를 제공한다는 보장이 없습니다.<br/>
 ex) 트랜스포머 헤드마스터의 경우 : d아니메스토어에서는 서비스 제공, d아니메 of Prime Video에서는 서비스 미제공<br/>
 
-아메바<br/>
+아베마<br/>
 アベマ<br/>
 https://abema.tv/<br/>
 
