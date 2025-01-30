@@ -10,9 +10,8 @@ Japan Branch
 
 <details>
 <summary>
-  
-### QnA
 
+### QnA
 </summary>
 Q1. 이거 왜 없어요 <br/>
 A1. 앗차or잘 모름<br/>
@@ -21,8 +20,7 @@ A1. 앗차or잘 모름<br/>
 <details>
 <summary>
   
-## 각 OTT URL<br/>
-
+## 각 OTT URL
 </summary>
 한국어(임의 표기)<br/>
 원문<br/>
