@@ -213,11 +213,11 @@ d아니메스토어 / 아마존 프라임 / FOD<br/>
 서비스 제공 및 구매 URL<br/>
 (참고사항 ※있을 경우)<br/>
 
-고고<br/>
+**고고**<br/>
 トランスフォーマーごー！ごー！<br/>
 https://cocreco.kodansha.co.jp/telemaga/news/feature/tfgogo<br/>
 
-헨케이<br/>
+**헨케이**<br/>
 変形！ ヘンケイ！ トランスフォーマー<br/>
 https://www.fukkan.com/fk/CartSearchDetail?i_no=68334679<br/>
 
