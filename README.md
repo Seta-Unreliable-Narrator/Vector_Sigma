@@ -13,7 +13,9 @@ Japan Branch
 ### QnA
 </summary>
 Q1. 이거 왜 없어요 <br/>
-A1. 앗차or잘 모름<br/>
+A1. 앗차 or 잘 모름<br/>
+Q2. 정보 없는 거는요 <br/>
+A2. 못 찾음 or 없음<br/>
 </details>
 
 <details>
