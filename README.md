@@ -2,29 +2,29 @@
 Japan Branch
 
 
-트랜스포머 일본어판 보는 법 정리글
+트랜스포머 일본어판 보는 법 정리글<br/>
 기준일자 2025년 01월 30일
 
-※ DVD 및 블루레이와 같은 물리적인 매체를 구매하는 방법은 제합니다.
+※ DVD 및 블루레이와 같은 물리적인 매체를 구매하는 방법은 제합니다.<br/>
 지역은 일본을 기준으로 합니다.
 
 
-# 각 OTT URL
-한국어(임의 표기)
-원문
-URL
+# 각 OTT URL<br/>
+한국어(임의 표기)<br/>
+원문<br/>
+URL<br/>
 
-아마존 프라임 비디오
-アマゾンプライムビデオ
-https://www.amazon.co.jp/gp/video/storefront
+아마존 프라임 비디오<br/>
+アマゾンプライムビデオ<br/>
+https://www.amazon.co.jp/gp/video/storefront<br/>
 
-넷플릭스
-ネットフリックス
-https://www.netflix.com/
+넷플릭스<br/>
+ネットフリックス<br/>
+https://www.netflix.com/<br/>
 
-d아니메스토어
-dアニメストア
-https://animestore.docomo.ne.jp/animestore/
+d아니메스토어<br/>
+dアニメストア<br/>
+https://animestore.docomo.ne.jp/animestore/<br/>
 
 d아니메 of Prime Video
 dアニメ of Prime Video
