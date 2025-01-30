@@ -100,8 +100,8 @@ d아니메스토어 / d아니메 of Prime Video<br/>
 **초신 마스터포스**<br/>
 トランスフォーマー 超神マスターフォース<br/>
 d아니메스토어<br/>
-유튜브 티스파크 채널(기간한정)<br/>
-https://www.youtube.com/watch?v=l-D_udjdxms<br/>
+유튜브 티스파크 채널<br/>
+https://youtu.be/X-iecJPnYkE<br/>
 
 **빅토리**<br/>
 戦え！超ロボット生命体　トランスフォーマーＶ<br/>
