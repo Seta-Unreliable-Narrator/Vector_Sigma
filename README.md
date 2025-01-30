@@ -75,7 +75,7 @@ d아니메스토어 / d아니메 of Prime Video<br/>
 초신 마스터포스<br/>
 トランスフォーマー 超神マスターフォース<br/>
 d아니메스토어 / 유튜브(기간한정)<br/>
-https://t.co/ckre5G86ss<br/>
+https://www.youtube.com/watch?v=l-D_udjdxms<br/>
 
 빅토리<br/>
 戦え！超ロボット生命体　トランスフォーマーＶ<br/>
