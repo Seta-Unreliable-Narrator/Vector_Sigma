@@ -72,6 +72,8 @@ https://www.nicovideo.jp/<br/>
 초대<br/>
 戦え！超ロボット生命体トランスフォーマー<br/>
 d아니메스토어 / d아니메 of Prime Video / 아베마<br/>
+유튜브 티스파크 채널<br/>
+https://www.youtube.com/watch?v=Im_sRq3y5CY<br/>
 
 더 무비<br/>
 トランスフォーマー ザ・ムービー<br/>
@@ -148,6 +150,7 @@ d아니메스토어 / d아니메 of Prime Video<br/>
 어드벤처<br/>
 トランスフォーマー アドベンチャー<br/>
 니코니코동화<br/>
+https://www.nicovideo.jp/user/99106055/series/158163<br/>
 
 # 기타<br/>
 
