@@ -10,13 +10,20 @@ Japan Branch
 
 <details>
 <summary>
+  
 ### QnA
+
 </summary>
 Q1. 이거 왜 없어요 <br/>
 A1. 앗차or잘 모름<br/>
 </details>
 
+<details>
+<summary>
+  
 ## 각 OTT URL<br/>
+
+</summary>
 한국어(임의 표기)<br/>
 원문<br/>
 URL<br/>
@@ -62,6 +69,7 @@ https://www.youtube.com/<br/>
 ニコニコ動画<br/>
 https://www.nicovideo.jp/<br/>
 ※ 해당 채널은 시리즈별 별도 표기<br/>
+</details>
 
 ## 표기 방법<br/>
 한국어 타이틀(임의 표기)<br/>
