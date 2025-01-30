@@ -3,74 +3,45 @@ Japan Branch
 
 
 트랜스포머 일본어판 보는 법 정리글
-
 기준일자 2025년 01월 30일
 
-
 ※ DVD 및 블루레이와 같은 물리적인 매체를 구매하는 방법은 제합니다.
-
 지역은 일본을 기준으로 합니다.
 
 
 # 각 OTT URL
-
 한국어(임의 표기)
-
 원문
-
 URL
 
-
 아마존 프라임 비디오
-
 アマゾンプライムビデオ
-
 https://www.amazon.co.jp/gp/video/storefront
 
-
 넷플릭스
-
 ネットフリックス
-
 https://www.netflix.com/
 
-
 d아니메스토어
-
 dアニメストア
-
 https://animestore.docomo.ne.jp/animestore/
 
-
 d아니메 of Prime Video
-
 dアニメ of Prime Video
-
 https://www.amazon.co.jp/gp/video/channel/0246cb84-8f43-4c17-ac1f-2bfe85893c23/ref=atv_hm_add_c_e2CyQt_HSa38d0a_2_1?jic=20%7CEgxzdWJzY3JpcHRpb24%3D
-
 아마존 프라임 비디오 내부에서 추가로 d아니메스토어 OTT를 구독하는 형태
 
-
 유튜브
-
 ユーチューブ
-
 https://www.youtube.com/
-
 ※ 해당 채널은 시리즈별 별도 표기
-
 
 니코니코동화
-
 ニコニコ動画
-
 https://www.nicovideo.jp/
-
 ※ 해당 채널은 시리즈별 별도 표기
 
-
 ※ 아마존 프라임 내에 추가로 OTT플랫폼을 구독할 수 있는 기능이 있으나 이는 완전히 같은 콘텐츠를 제공한다는 보장이 없습니다. 
-
 ex) 트랜스포머 헤드마스터의 경우 : D아니메에서는 서비스 제공, D아니메 of Prime Video에서는 서비스 미제공
 
 
