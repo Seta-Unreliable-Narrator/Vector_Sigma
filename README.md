@@ -122,6 +122,8 @@ https://www.youtube.com/playlist?list=PLBy5EJY5Urg-sa8ArxjXDhnM3IWIjDpfg<br/>
 
 **네오**<br/>
 ビーストウォーズネオ 超生命体トランスフォーマー<br/>
+유튜브 티스파크 채널<br/>
+https://www.youtube.com/watch?v=MQToYuw4o60<br/>
 
 **메탈**<br/>
 ビーストウォーズメタルス　超生命体トランスフォーマー<br/>
