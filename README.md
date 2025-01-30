@@ -29,7 +29,7 @@ https://animestore.docomo.ne.jp/animestore/<br/>
 d아니메 of Prime Video<br/>
 dアニメ of Prime Video<br/>
 https://www.amazon.co.jp/gp/video/channel/0246cb84-8f43-4c17-ac1f-2bfe85893c23/ref=atv_hm_add_c_e2CyQt_HSa38d0a_2_1?jic=20%7CEgxzdWJzY3JpcHRpb24%3D<br/>
-아마존 프라임 비디오 내부에서 추가로 d아니메스토어 OTT를 구독하는 형태<br/>
+※ 아마존 프라임 비디오 내부에서 추가로 d아니메스토어 OTT를 구독하는 형태<br/>
 
 유튜브<br/>
 ユーチューブ<br/>
