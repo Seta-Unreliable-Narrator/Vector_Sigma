@@ -184,7 +184,7 @@ d아니메스토어 / 아마존 프라임<br/>
 トランスフォーマー サイバーバース<br/>
 유튜브 타카라토미 채널<br/>
 https://www.youtube.com/playlist?list=PLhWipIfRhqz0_k6ZEWjs4icCnSOVcZUBq<br/>
-(시즌2 분량/시즌3 없음)
+(시즌2 분량/시즌3,4 없음)
 
 **워 포 사이버트론**<br/>
 トランスフォーマー:ウォー・フォー・サイバトロン・トリロジー<br/>
