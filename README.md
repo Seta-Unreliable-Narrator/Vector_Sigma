@@ -36,6 +36,10 @@ ex) 트랜스포머 헤드마스터의 경우 : d아니메스토어에서는 서
 アベマ<br/>
 https://abema.tv/<br/>
 
+유넥스트<br/>
+ユーネクスト<br/>
+https://video.unext.jp/<br/>
+
 유튜브<br/>
 ユーチューブ<br/>
 https://www.youtube.com/<br/>
@@ -155,11 +159,13 @@ https://youtu.be/qe56KXvLzBo<br/>
 トランスフォーマー:ウォー・フォー・サイバトロン・トリロジー<br/>
 넷플릭스<br/>
 
-어스스파크
+어스스파크<br/>
 トランスフォーマー アーススパーク<br/>
 d아니메스토어 / d아니메 of Prime Video<br/>
 
-
+트랜스포머 원<br/>
+トランスフォーマー/ワン<br/>
+유넥스트
 
 # 미확인<br/>
 
