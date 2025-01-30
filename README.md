@@ -171,8 +171,12 @@ d아니메스토어 / d아니메 of Prime Video<br/>
 ## 표기 방법<br/>
 한국어 타이틀(임의 표기)<br/>
 일문 타이틀<br/>
-구매 URL<br/>
+서비스 제공 및 구매 URL<br/>
 (참고사항 ※있을 경우)<br/>
+
+고고<br/>
+トランスフォーマーごー！ごー！<br/>
+https://cocreco.kodansha.co.jp/telemaga/news/feature/tfgogo<br/>
 
 헨케이<br/>
 変形！ ヘンケイ！ トランスフォーマー<br/>
