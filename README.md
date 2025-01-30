@@ -57,6 +57,10 @@ https://video.unext.jp/<br/>
 フールー<br/>
 https://www.hulu.jp/<br/>
 
+FOD<br/>
+エフオーディ<br/>
+https://fod.fujitv.co.jp/<br/>
+
 유튜브<br/>
 ユーチューブ<br/>
 https://www.youtube.com/<br/>
