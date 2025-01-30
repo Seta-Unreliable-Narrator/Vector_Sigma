@@ -54,14 +54,14 @@ https://www.nicovideo.jp/<br/>
 
 초대<br/>
 戦え！超ロボット生命体トランスフォーマー<br/>
-d아니메스토어 / D아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 of Prime Video<br/>
 
 더 무비<br/>
 トランスフォーマー ザ・ムービー<br/>
 
 2010<br/>
 戦え！超ロボット生命体トランスフォーマー2010<br/>
-d아니메스토어 / D아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 of Prime Video<br/>
 
 헤드마스터즈<br/>
 トランスフォーマー ザ☆ヘッドマスターズ<br/>
@@ -69,7 +69,7 @@ d아니메스토어<br/>
 
 리버스<br/>
 トランスフォーマー ザ・リバース<br/>
-d아니메스토어 / D아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 of Prime Video<br/>
 
 초신 마스터포스<br/>
 トランスフォーマー 超神マスターフォース<br/>
@@ -77,7 +77,7 @@ d아니메스토어<br/>
 
 빅토리<br/>
 戦え！超ロボット生命体　トランスフォーマーＶ<br/>
-d아니메스토어 / D아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 of Prime Video<br/>
 
 존<br/>
 トランスフォーマーZ<br/>
@@ -105,7 +105,7 @@ d아니메스토어<br/>
 
 아마다<br/>
 超ロボット生命体トランスフォーマー マイクロン伝説<br/>
-d아니메스토어 / D아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 of Prime Video<br/>
 
 슈퍼링크<br/>
 トランスフォーマー スーパーリンク<br/>
@@ -119,7 +119,7 @@ d아니메스토어<br/>
 
 프라임<br/>
 超ロボット生命体 トランスフォーマー プライム<br/>
-d아니메스토어 / D아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 of Prime Video<br/>
 
 레스큐봇<br/>
 レスキューボッツ<br/>
@@ -142,7 +142,7 @@ d아니메스토어<br/>
 
 애니메이티드<br/>
 トランスフォーマー アニメイテッド<br/>
-d아니메스토어 / D아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 of Prime Video<br/>
 
 사이버버스<br/>
 トランスフォーマー サイバーバース<br/>
@@ -154,7 +154,7 @@ d아니메스토어 / D아니메 of Prime Video<br/>
 
 어스스파크
 トランスフォーマー アーススパーク<br/>
-d아니메스토어 / D아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 of Prime Video<br/>
 
 # 미확인<br/>
 
