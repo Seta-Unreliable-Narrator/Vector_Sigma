@@ -40,6 +40,10 @@ https://abema.tv/<br/>
 ユーネクスト<br/>
 https://video.unext.jp/<br/>
 
+훌루<br/>
+フールー<br/>
+https://www.hulu.jp/<br/>
+
 유튜브<br/>
 ユーチューブ<br/>
 https://www.youtube.com/<br/>
