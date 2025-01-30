@@ -159,10 +159,14 @@ https://youtu.be/qe56KXvLzBo<br/>
 トランスフォーマー アーススパーク<br/>
 d아니메스토어 / d아니메 of Prime Video<br/>
 
+
+
 # 미확인<br/>
 
 
 # 미방영<br/>
+
+프라임 프레데콘 라이징<br/>
 
 레스큐봇 아카데미<br/>
 レスキューボッツアカデミ<br/>
