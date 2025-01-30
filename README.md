@@ -56,6 +56,7 @@ https://www.hulu.jp/<br/>
 ユーチューブ<br/>
 https://www.youtube.com/<br/>
 ※ 해당 채널은 시리즈별 별도 표기<br/>
+※ 리스트가 있는 경우 리스트 / 링크 없는 경우 제1화 링크<br/>
 
 니코니코동화<br/>
 ニコニコ動画<br/>
@@ -92,7 +93,8 @@ d아니메스토어 / d아니메 of Prime Video<br/>
 
 초신 마스터포스<br/>
 トランスフォーマー 超神マスターフォース<br/>
-d아니메스토어 / 유튜브(기간한정)<br/>
+d아니메스토어<br/>
+유튜브 티스파크 채널(기간한정)<br/>
 https://www.youtube.com/watch?v=l-D_udjdxms<br/>
 
 빅토리<br/>
