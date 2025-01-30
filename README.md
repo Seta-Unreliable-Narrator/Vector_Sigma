@@ -156,6 +156,7 @@ d아니메스토어<br/>
 **프라임**<br/>
 超ロボット生命体 トランスフォーマー プライム<br/>
 d아니메스토어 / d아니메 of Prime Video<br/>
+(시즌2 분량/시즌3 없음)
 
 **고**<br/>
 参乗合体トランスフォーマーGo!<br/>
@@ -164,6 +165,7 @@ d아니메스토어 / d아니메 of Prime Video<br/>
 トランスフォーマー アドベンチャー<br/>
 니코니코동화<br/>
 https://www.nicovideo.jp/user/99106055/series/158163<br/>
+(시즌2 분량/시즌3 없음)
 
 # 기타<br/>
 
@@ -182,6 +184,7 @@ d아니메스토어 / 아마존 프라임<br/>
 トランスフォーマー サイバーバース<br/>
 유튜브 타카라토미 채널<br/>
 https://www.youtube.com/playlist?list=PLhWipIfRhqz0_k6ZEWjs4icCnSOVcZUBq<br/>
+(시즌2 분량/시즌3 없음)
 
 **워 포 사이버트론**<br/>
 トランスフォーマー:ウォー・フォー・サイバトロン・トリロジー<br/>
