@@ -17,6 +17,8 @@ Q1. 이거 왜 없어요 <br/>
 A1. 앗차 or 잘 모름<br/>
 Q2. 정보 없는 거는요 <br/>
 A2. 못 찾음 or 없음<br/>
+Q3. 잘못됐는데요<br/>
+A3. 아차<br/>
 </details>
 
 <details>
