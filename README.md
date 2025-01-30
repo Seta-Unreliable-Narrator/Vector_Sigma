@@ -8,9 +8,13 @@ Japan Branch
 ※ 영상매체의 경우, DVD 및 블루레이와 같은 물리적인 매체를 구매하는 방법은 제합니다.<br/>
 ※ 지역은 일본을 기준으로 합니다.<br/>
 
+<details>
+<summary>
 ### QnA
+</summary>
 Q1. 이거 왜 없어요 <br/>
 A1. 앗차<br/>
+</details>
 
 ## 각 OTT URL<br/>
 한국어(임의 표기)<br/>
