@@ -105,7 +105,7 @@ d아니메스토어 / d아니메 of Prime Video<br/>
 トランスフォーマー 超神マスターフォース<br/>
 d아니메스토어<br/>
 유튜브 티스파크 채널<br/>
-https://youtu.be/X-iecJPnYkE<br/>
+https://www.youtube.com/watch?v=X-iecJPnYkE<br/>
 
 **빅토리**<br/>
 戦え！超ロボット生命体　トランスフォーマーＶ<br/>
@@ -181,7 +181,7 @@ d아니메스토어 / 아마존 프라임<br/>
 **사이버버스**<br/>
 トランスフォーマー サイバーバース<br/>
 유튜브 타카라토미 채널<br/>
-https://youtu.be/qe56KXvLzBo<br/>
+https://www.youtube.com/playlist?list=PLhWipIfRhqz0_k6ZEWjs4icCnSOVcZUBq<br/>
 
 **워 포 사이버트론**<br/>
 トランスフォーマー:ウォー・フォー・サイバトロン・トリロジー<br/>
