@@ -30,6 +30,8 @@ d아니메 of Prime Video<br/>
 dアニメ of Prime Video<br/>
 https://www.amazon.co.jp/gp/video/channel/0246cb84-8f43-4c17-ac1f-2bfe85893c23/ref=atv_hm_add_c_e2CyQt_HSa38d0a_2_1?jic=20%7CEgxzdWJzY3JpcHRpb24%3D<br/>
 ※ 아마존 프라임 비디오 내부에서 추가로 d아니메스토어 OTT를 구독하는 형태<br/>
+※ 아마존 프라임 내에 추가로 OTT플랫폼을 구독할 수 있는 기능이 있으나 이는 완전히 같은 콘텐츠를 제공한다는 보장이 없습니다.<br/>
+ex) 트랜스포머 헤드마스터의 경우 : D아니메에서는 서비스 제공, D아니메 of Prime Video에서는 서비스 미제공<br/>
 
 유튜브<br/>
 ユーチューブ<br/>
