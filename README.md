@@ -117,6 +117,8 @@ d아니메스토어 / d아니메 of Prime Video<br/>
 
 **세컨드**<br/>
 ビーストウォーズII 超生命体トランスフォーマー<br/>
+유튜브 티스파크 채널<br/>
+https://www.youtube.com/playlist?list=PLBy5EJY5Urg-sa8ArxjXDhnM3IWIjDpfg<br/>
 
 **네오**<br/>
 ビーストウォーズネオ 超生命体トランスフォーマー<br/>
