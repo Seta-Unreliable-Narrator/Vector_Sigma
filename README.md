@@ -169,7 +169,7 @@ d아니메스토어 / d아니메 of Prime Video<br/>
 トランスフォーマー アドベンチャー<br/>
 니코니코동화<br/>
 https://www.nicovideo.jp/user/99106055/series/158163<br/>
-(시즌2 분량/시즌3 없음)
+(시즌4 없음)
 
 # 기타<br/>
 
