@@ -3,7 +3,7 @@ Japan Branch
 
 트랜스포머 일본어판 보는 법<br/>
 한국어판 정리글<br/>
-기준일자 2025년 01월 30일<br/>
+기준일자 2025년 02월 15일<br/>
 
 ※ 영상매체의 경우, DVD 및 블루레이와 같은 물리적인 매체를 구매하는 방법과 구독 이외의 별도 구매를 요하는 방법은 일단 제합니다.<br/>
 ※ 지역은 일본을 기준으로 합니다.<br/>
@@ -237,6 +237,13 @@ https://cocreco.kodansha.co.jp/telemaga/news/feature/tfgogo<br/>
 **헨케이**<br/>
 変形！ ヘンケイ！ トランスフォーマー<br/>
 https://www.fukkan.com/fk/CartSearchDetail?i_no=68334679<br/>
+
+**더 코믹스**<br/>
+戦え!超ロボット生命体トランスフォーマー ザ☆コミックス完全版<br/>
+1권<br/>
+https://amzn.asia/d/6CS9VDP<br/>
+2권<br/>
+https://amzn.asia/d/b4buPNS<br/>
 
 <br/>
 ### 페이지의 마지막입니다.
