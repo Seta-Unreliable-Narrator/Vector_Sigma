@@ -42,12 +42,12 @@ d아니메스토어<br/>
 dアニメストア<br/>
 https://animestore.docomo.ne.jp/animestore/<br/>
 
-d아니메 of Prime Video<br/>
-dアニメ of Prime Video<br/>
+d아니메 for Prime Video<br/>
+dアニメ for Prime Video<br/>
 https://www.amazon.co.jp/gp/video/channel/0246cb84-8f43-4c17-ac1f-2bfe85893c23/ref=atv_hm_add_c_e2CyQt_HSa38d0a_2_1?jic=20%7CEgxzdWJzY3JpcHRpb24%3D<br/>
 ※ 아마존 프라임 비디오 내부에서 추가로 d아니메스토어 OTT를 구독하는 형태<br/>
 ※ 아마존 프라임 내에 추가로 OTT플랫폼을 구독할 수 있는 기능이 있으나 이는 완전히 같은 콘텐츠를 제공한다는 보장이 없습니다.<br/>
-ex) 트랜스포머 헤드마스터의 경우 : d아니메스토어에서는 서비스 제공, d아니메 of Prime Video에서는 서비스 미제공<br/>
+ex) 트랜스포머 헤드마스터의 경우 : d아니메스토어에서는 서비스 제공, d아니메 for Prime Video에서는 서비스 미제공<br/>
 
 아베마<br/>
 アベマ<br/>
@@ -86,7 +86,7 @@ https://www.nicovideo.jp/<br/>
 # 클래식<br/>
 **초대**<br/>
 戦え！超ロボット生命体トランスフォーマー<br/>
-d아니메스토어 / d아니메 of Prime Video / 아베마<br/>
+d아니메스토어 / d아니메 for Prime Video / 아베마<br/>
 유튜브 티스파크 채널<br/>
 https://www.youtube.com/watch?v=Im_sRq3y5CY<br/>
 
@@ -95,7 +95,7 @@ https://www.youtube.com/watch?v=Im_sRq3y5CY<br/>
 
 **2010**<br/>
 戦え！超ロボット生命体トランスフォーマー2010<br/>
-d아니메스토어 / d아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 for Prime Video<br/>
 
 **헤드마스터즈**<br/>
 トランスフォーマー ザ☆ヘッドマスターズ<br/>
@@ -103,7 +103,7 @@ d아니메스토어<br/>
 
 **리버스**<br/>
 トランスフォーマー ザ・リバース<br/>
-d아니메스토어 / d아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 for Prime Video<br/>
 
 **마스터포스**<br/>
 トランスフォーマー 超神マスターフォース<br/>
@@ -113,7 +113,7 @@ https://www.youtube.com/watch?v=X-iecJPnYkE<br/>
 
 **빅토리**<br/>
 戦え！超ロボット生命体　トランスフォーマーＶ<br/>
-d아니메스토어 / d아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 for Prime Video<br/>
 
 **존**<br/>
 トランスフォーマーZ<br/>
@@ -139,13 +139,13 @@ d아니메스토어 / 아마존 프라임<br/>
 
 **리턴즈**<br/>
 超生命体トランスフォーマー ビーストウォーズ・リターンズ<br/>
-d아니메스토어 / d아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 for Prime Video<br/>
 
 # 마이크론<br/>
 
 **아마다**<br/>
 超ロボット生命体トランスフォーマー マイクロン伝説<br/>
-d아니메스토어 / d아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 for Prime Video<br/>
 
 **에너존**<br/>
 トランスフォーマー スーパーリンク<br/>
@@ -159,7 +159,7 @@ d아니메스토어<br/>
 
 **프라임**<br/>
 超ロボット生命体 トランスフォーマー プライム<br/>
-d아니메스토어 / d아니메 of Prime Video<br/>
+d아니메스토어 / d아니메 for Prime Video<br/>
 (시즌2 분량/시즌3 없음)
 
 **고**<br/>
