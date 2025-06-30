@@ -3,7 +3,7 @@ Japan Branch
 
 트랜스포머 일본어판 보는 법<br/>
 한국어판 정리글<br/>
-기준일자 2025년 03월 19일<br/>
+기준일자 2025년 06월 30일<br/>
 
 ※ 영상매체의 경우, DVD 및 블루레이와 같은 물리적인 매체를 구매하는 방법과 구독 이외의 별도 구매를 요하는 방법은 일단 제합니다.<br/>
 ※ 지역은 일본을 기준으로 합니다.<br/>
@@ -90,8 +90,8 @@ d아니메스토어 / d아니메 for Prime Video / 아베마<br/>
 유튜브 티스파크 채널<br/>
 https://www.youtube.com/watch?v=Im_sRq3y5CY<br/>
 
-**더 무비**<br/>
-トランスフォーマー ザ・ムービー<br/>
+**스크램블 시티 발동편**<br/>
+戦え!超ロボット生命体トランスフォーマー スクランブルシティ発動編<br/>
 
 **2010**<br/>
 戦え！超ロボット生命体トランスフォーマー2010<br/>
@@ -216,6 +216,8 @@ d아니메스토어 / 아마존 프라임 / FOD<br/>
 
 # 미방영<br/>
 
+**더 무비**<br/>
+
 **프라임 프레데콘 라이징**<br/>
 
 **레스큐봇**<br/>
@@ -241,11 +243,14 @@ https://www.fukkan.com/fk/CartSearchDetail?i_no=68334679<br/>
 
 **더 코믹스**<br/>
 戦え!超ロボット生命体トランスフォーマー ザ☆コミックス完全版<br/>
-현재 예약 기간 만료. 발간 후 재업데이트<br/>
 1권<br/>
-https://amzn.asia/d/6CS9VDP<br/>
+https://www.takeshobo.co.jp/book/b10123427.html<br/>
 2권<br/>
-https://amzn.asia/d/b4buPNS<br/>
+https://www.takeshobo.co.jp/book/b10123426.html<br/>
+
+**갤럭시포스**<br/>
+トランスフォーマー ギャラクシーフォース<br/>
+https://www.fukkan.com/fk/CartSearchDetail?i_no=68338249<br/>
 
 <br/>
 ### 페이지의 마지막입니다.
