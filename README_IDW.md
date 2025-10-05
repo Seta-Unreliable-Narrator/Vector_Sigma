@@ -97,3 +97,4 @@ https://www.fukkan.com/fk/VoteDetail?no=76897<br/>
 올하메<br/>
 카오스<br/>
 카오스 씨어리<br/>
+인터네셔널 인시던트 https://ndlsearch.ndl.go.jp/books/R100000002-I028444724<br/>
