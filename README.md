@@ -3,7 +3,7 @@ Japan Branch
 
 트랜스포머 일본어판 보는 법<br/>
 한국어판 정리글<br/>
-기준일자 2025년 06월 30일<br/>
+기준일자 2025년 10월 05일<br/>
 
 ※ 영상매체의 경우, DVD 및 블루레이와 같은 물리적인 매체를 구매하는 방법과 구독 이외의 별도 구매를 요하는 방법은 일단 제합니다.<br/>
 ※ 지역은 일본을 기준으로 합니다.<br/>
@@ -238,6 +238,10 @@ d아니메스토어 / 아마존 프라임 / FOD<br/>
 https://cocreco.kodansha.co.jp/telemaga/news/feature/tfgogo<br/>
 https://bookclub.kodansha.co.jp/product?item=0000377448<br/>
 
+**고고 대모험편**<br/>
+トランスフォーマーごー! ごー! 大冒険編<br/>
+https://amzn.asia/d/7ETOEYo<br/>
+
 **헨케이**<br/>
 変形！ ヘンケイ！ トランスフォーマー<br/>
 https://www.fukkan.com/fk/CartSearchDetail?i_no=68334679<br/>
@@ -252,6 +256,56 @@ https://www.takeshobo.co.jp/book/b10123426.html<br/>
 **갤럭시포스**<br/>
 トランスフォーマー ギャラクシーフォース<br/>
 https://www.fukkan.com/fk/CartSearchDetail?i_no=68338249<br/>
+
+------------------
+# 복간 요청<br/>
+~~있었는데요 없어졌습니다~~
+## 표기 방법<br/>
+한국어 타이틀(임의 표기)<br/>
+일문 타이틀<br/>
+복간 투표 URL<br/>
+(참고사항 ※있을 경우)<br/>
+
+**트랜스포머 올 스파크**<br/>
+トランスフォーマー オールスパーク<br/>
+https://www.fukkan.com/fk/VoteDetail?no=61266<br/>
+
+**트랜스포머 애니메이티드 더 쿨**<br/>
+トランスフォーマーアニメイテッド ザ・クール<br/>
+https://www.fukkan.com/fk/VoteDetail?no=73023<br/>
+
+**IDW 트랜스포머 라스트 스탠드 오브 레커즈**<br/>
+トランスフォーマー ラスト・スタンド・オブ・レッカーズ<br/>
+https://www.fukkan.com/fk/VoteDetail?no=75403<br/>
+
+**IDW 트랜스포머 드리프트**<br/>
+トランスフォーマー ドリフト<br/>
+https://www.fukkan.com/fk/VoteDetail?no=75433<br/>
+
+**IDW 트랜스포머 모어 댄 미츠 디 아이**<br/>
+トランスフォーマー モア・ザン・ミーツ・ジ・アイ<br/>
+https://www.fukkan.com/fk/VoteDetail?no=75187<br/>
+
+**IDW 트랜스포머 로보츠 인 디스가이즈**<br/>
+トランスフォーマー ロボッツ・イン・ディスガイズ<br/>
+https://www.fukkan.com/fk/VoteDetail?no=75396<br/>
+
+**IDW 트랜스포머 다크 사이버트론**<br/>
+トランスフォーマー ダーク・サイバートロン<br/>
+https://www.fukkan.com/fk/VoteDetail?no=75434<br/>
+
+**IDW 트랜스포머 카오스 씨어리**<br/>
+トランスフォーマー ケイオス・セオリー<br/>
+https://www.fukkan.com/fk/VoteDetail?no=76895<br/>
+
+**IDW 트랜스포머 올 헤일 메가트론**<br/>
+トランスフォーマー オール・ヘイル・メガトロン<br/>
+https://www.fukkan.com/fk/VoteDetail?no=67653<br/>
+
+**IDW 트랜스포머 리벤지 오브 디셉티콘**<br/>
+トランスフォーマー リベンジ・オブ・ディセプティコン<br/>
+https://www.fukkan.com/fk/VoteDetail?no=76897<br/>
+
 
 <br/>
 ### 페이지의 마지막입니다.
