@@ -83,8 +83,8 @@ https://www.fukkan.com/fk/VoteDetail?no=76897<br/>
 
 # ※ 번외2 : 도서관에서 열람하기<br/>
 
-확인된 리스트 (IDW)<br/>
-※ 국립국회도서관 기준
+예시:<br/>
+※ 국립국회도서관 기준 (URL일부)<br/>
 
 로인디 1-4<br/>
 몰밑 1-4<br/>
